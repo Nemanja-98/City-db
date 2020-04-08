@@ -1,0 +1,24 @@
+{
+    "city": [
+        { 
+            "id": 0,
+            "name": "Beograd", 
+            "population": "mnogo" 
+        },
+        {
+           "id": 1,
+           "name":"Nis",
+           "population": "malo manje"
+        },
+        { 
+            "id":2,
+            "name":"Vladicin Han",
+             "population":"nije ni bitno niko ne zna za ovaj grad"
+        },
+        { 
+            "id":3,
+            "name":"Novi Sad",
+             "population":"manje od mnogo, ali vise od nije ni bitno niko ne zna za ovaj grad"
+        }
+    ]
+  }
